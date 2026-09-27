@@ -17,7 +17,7 @@ Follow these steps to get ShareSquare running on your local machine.
 #### Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/pulkitgarg04/sharesquare.git
+git clone https://github.com/pulkitgxrg/sharesquare.git
 ```
 
 2. Navigate to the project directory:
@@ -84,7 +84,7 @@ Feel free to fork the repository and submit pull requests to enhance the functio
     - Clone your forked repository to your local machine:
 
     ```bash
-    git clone https://github.com/pulkitgarg04/sharesquare.git
+    git clone https://github.com/pulkitgxrg/sharesquare.git
     cd sharesquare
     ```
 
